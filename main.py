@@ -30,4 +30,4 @@ if __name__ == '__main__':
         print('You feel the world start to cool down, it wasn\'t that hard to make a difference, now was it? Small choices matter too')
     else:
         print('You feel the world start to heat up, but it couldn\'t have been your fault. It\'s it\'s not like your single efforts would have made a difference, right?')
-    print('Every choice matters, even the small ones. Make good decisions, some of them aren\'t hard')
+    print('Every choice matters, even the small ones. Make good decisions, some of them aren\'t hard.')
