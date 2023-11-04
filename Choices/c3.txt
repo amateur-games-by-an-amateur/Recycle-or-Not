@@ -1,0 +1,5 @@
+You are about to reach your work when you see a convenience store
+Buy a drink (Either bottled or canned) | Ignore the store
+c5.txt | c4.txt
+3 | 3
+0 | 0
