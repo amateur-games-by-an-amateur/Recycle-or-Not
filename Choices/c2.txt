@@ -1,0 +1,5 @@
+You are stuck in standstill traffic and the light just turned red  (You're not moving anytime soon)
+Turn off car engine | Keep it running
+c4.txt | c4.txt
+0 | 1
+1 | 1

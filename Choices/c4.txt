@@ -1,0 +1,5 @@
+You arrive to your "paying" job\nWhile you are charging your phone you receive a business call:
+Leave your charger plugged in | Unplug your charger while you take the call
+end.txt | end.txt
+1 | 0
+1 | 1

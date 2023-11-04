@@ -1,0 +1,5 @@
+Upon waking up you can either:
+Drive to work(non-electric car) | Take public transport | Walk/Bike
+c2.txt | c3.txt | c3.txt
+1 | 2 | 0
+1 | 1 | 1
