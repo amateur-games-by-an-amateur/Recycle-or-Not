@@ -1,0 +1,5 @@
+You feel refreshed from the drink as you leave the store
+Throw it out into a trash can | Drop it on the sidewalk | Find a recycling bin
+1 | 1 | 0
+c4.txt | c4.txt | c4.txt
+1 | 2 | 1
