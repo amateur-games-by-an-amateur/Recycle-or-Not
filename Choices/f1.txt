@@ -1,0 +1,5 @@
+You are getting a new farm this year, what would you like to farm?:
+Animals | Crops
+f2.txt | f3.txt
+2 | 2
+1 | 1
