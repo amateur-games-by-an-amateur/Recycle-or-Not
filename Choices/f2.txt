@@ -1,0 +1,5 @@
+How shall you manage your animals manure:
+Burn it | Leave it | Recover methane from manure (biogas)
+f4.txt | f4.txt | f4.txt
+1 | 1 | 0
+2 | 1 | 1
