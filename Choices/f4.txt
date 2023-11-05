@@ -1,5 +1,4 @@
-It's time to ship out what you've been growing/cultivating.
-Where should you send it:
+It's time to ship out what you've been growing/cultivating. Where should you send it?:
 Local farmer's market | Big chain city supermarket
 end.txt | end.txt 
 0 | 1
