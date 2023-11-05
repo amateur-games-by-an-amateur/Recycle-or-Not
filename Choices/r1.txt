@@ -1,0 +1,5 @@
+What type of car woud you like to buy?
+Electric | Gasoline
+r2.txt | r2.txt
+0 | 1
+1 | 1

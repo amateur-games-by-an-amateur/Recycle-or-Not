@@ -1,0 +1,5 @@
+You have some free time! What would you like to do?
+Watch T.V. | Go for a walk | Go for a drive in your old gasoline powered car
+r4.txt | r4.txt | r4.txt
+1 | 0 | 1
+1 | 1 | 2
