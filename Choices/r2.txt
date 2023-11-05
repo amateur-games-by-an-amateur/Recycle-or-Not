@@ -1,0 +1,5 @@
+Your maid asks where they should shop for your food:
+Supermarket | Local Farmers Market
+r3.txt | r3.txt
+1 | 0
+1 | 1

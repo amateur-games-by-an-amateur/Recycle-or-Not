@@ -8,7 +8,7 @@ if __name__ == '__main__':
     #1: bad
     #2: neutral
     while True:
-        text,choices,nextFiles,goodBorN,points = parse_docs.parseChoice('Choices\c1.txt')
+        text,choices,nextFiles,goodBorN,points = parse_docs.parseChoice('Choices\\first.txt')
         goodBadN = [0,0,0]
         while(True):
             choice = -1

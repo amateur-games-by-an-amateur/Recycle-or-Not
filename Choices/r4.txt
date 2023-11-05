@@ -1,0 +1,5 @@
+It's time to go to work! How do you get there?
+Carpool | Public Transportation | Racecar
+end.txt | end.txt | end.txt
+0 | 0 | 1
+1 | 1 | 2
