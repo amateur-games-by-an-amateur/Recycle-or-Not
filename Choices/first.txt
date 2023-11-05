@@ -1,5 +1,5 @@
 What life would you like to live?:
-Rich Person | Urban Office Worker
-r1.txt | c1.txt
-2 | 2
-1 | 1
+Rich Person | Urban Office Worker | Farmer
+r1.txt | c1.txt | f1.txt
+2 | 2 | 2
+0 | 0 | 0
