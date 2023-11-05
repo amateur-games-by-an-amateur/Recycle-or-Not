@@ -1,5 +1,4 @@
-There is drought is predicted to occur in the land:
-How will you prepare for it?
+There is drought is predicted to occur in the land, How will you prepare for it?:
 Create an irrigation system to manage water | Buy more Blue Cow (Drink) | Ignore it
 f4.txt | f4.txt | f4.txt
 0 | 1 | 1
